@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Geometric Shield / Hexagon Outer -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M54,24 L80,36 L80,64 L54,84 L28,64 L28,36 Z" />
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M54,27 L76,38 L76,62 L54,80 L54,27 Z" />
+    <!-- Stylized 'M' inside safe zone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,65 L38,43 L45,43 L54,55 L63,43 L70,43 L70,65 L64,65 L64,51 L56,62 L52,62 L44,51 L44,65 Z" />
+</vector>

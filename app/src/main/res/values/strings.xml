@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">METON</string>
+    <string name="gateway_title">METON Gateway</string>
+    <string name="gateway_subtitle">Secure Workspace &amp; Realtime Sync</string>
+    <string name="dashboard_title">METON Sync Dashboard</string>
+    <string name="dashboard_subtitle">Firebase Realtime Database Channel</string>
+    <string name="btn_lock_screen">Lock Workspace</string>
+    <string name="gesture_instruction">Hold anywhere for 3s and swipe right to quick-access</string>
+    <string name="firebase_db_url">https://chat-7305d-default-rtdb.firebaseio.com</string>
+    <string name="firebase_project_id">chat-7305d</string>
+</resources>
